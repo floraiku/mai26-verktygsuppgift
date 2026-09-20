@@ -1,0 +1,13 @@
+pwd (print working directory)
+   - Visar den aktuella sökvägen till mappen jag står i.
+   ls (list)
+   - Listar alla filer och undermappar i den aktuella mappen.
+   cd (change directory)
+   - Byter aktuell mapp (t.ex. 'cd MAI26MA' för att gå in i mappen, eller 'cd ..' för att gå upp en nivå).
+   mkdir (make directory)
+   - Skapar en ny mapp med det angivna namnet.
+   touch
+   - Skapar en ny, tom fil med det angivna namnet.
+   cat (concatenate)
+   - Skriver ut innehållet i en textfil direkt i terminalen.
+   
